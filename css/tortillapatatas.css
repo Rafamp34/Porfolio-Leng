@@ -17,25 +17,6 @@
 
 *{box-sizing: border-box;} 
 
-/********************************************************************/
-/*           Hoja de estilo de tortillapapas.html                   */
-/*           Autor: Rafael Moncayo Pérez                           */
-/*           Versión: 1.0                                           */
-/*           Fecha: febrero    2023                                 */
-/*           comentario: ejercicio opcional                         */
-/********************************************************************/
-
-@font-face {
-    font-family: Titulo ;
-    src: url(../fonts/Lemodis\ Display.otf);
-}
-@font-face {
-    font-family: titulo ;
-    src: url(../fonts/Mumsies.ttf);
-}
-
-*{box-sizing: border-box;} 
-
 body {
     background-image: url(../imagenes/mantel.jpg);
     background-size: 20%;
